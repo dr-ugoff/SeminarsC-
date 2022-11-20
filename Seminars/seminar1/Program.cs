@@ -25,17 +25,17 @@
 // a = -3; b = 9  -> нет
 
 // Console.WriteLine("Input number 1");
-// int num1 = Convert.ToInt32(Console.ReadLine());
+// int a = Convert.ToInt32(Console.ReadLine());
 // Console.WriteLine("Input number 2");
-// int num2 = Convert.ToInt32(Console.ReadLine());
-// int square = num2 * num2;
-// if (square == num1)
+// int b = Convert.ToInt32(Console.ReadLine());
+// int square = b * b;
+// if (square == a)
 // {
-//     Console.WriteLine($"{num1} is square of {num2}");
+//     Console.WriteLine($"{a} is square of {b}");
 // }
 // else
 // {
-//     Console.WriteLine($"{num1} is not square of {num2}");
+//     Console.WriteLine($"{a} is not square of {b}");
 // }
 
 
@@ -66,7 +66,7 @@
 
 Console.WriteLine("Input three-digit number");
 int num = Convert.ToInt32(Console.ReadLine());
-int lastdig = num ;
+int lastdig = num % 10;
 if (lastdig < 0) lastdig = -1 * lastdig;
 Console.WriteLine($"The last digit is {lastdig}");
 
