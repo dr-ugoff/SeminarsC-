@@ -1,0 +1,15 @@
+C:\Users\KISKIN-PC\Desktop\MySeminarsC#\Seminars\seminar1\bin\Debug\net6.0\seminar1.exe
+C:\Users\KISKIN-PC\Desktop\MySeminarsC#\Seminars\seminar1\bin\Debug\net6.0\seminar1.deps.json
+C:\Users\KISKIN-PC\Desktop\MySeminarsC#\Seminars\seminar1\bin\Debug\net6.0\seminar1.runtimeconfig.json
+C:\Users\KISKIN-PC\Desktop\MySeminarsC#\Seminars\seminar1\bin\Debug\net6.0\seminar1.dll
+C:\Users\KISKIN-PC\Desktop\MySeminarsC#\Seminars\seminar1\bin\Debug\net6.0\seminar1.pdb
+C:\Users\KISKIN-PC\Desktop\MySeminarsC#\Seminars\seminar1\obj\Debug\net6.0\seminar1.csproj.AssemblyReference.cache
+C:\Users\KISKIN-PC\Desktop\MySeminarsC#\Seminars\seminar1\obj\Debug\net6.0\seminar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KISKIN-PC\Desktop\MySeminarsC#\Seminars\seminar1\obj\Debug\net6.0\seminar1.AssemblyInfoInputs.cache
+C:\Users\KISKIN-PC\Desktop\MySeminarsC#\Seminars\seminar1\obj\Debug\net6.0\seminar1.AssemblyInfo.cs
+C:\Users\KISKIN-PC\Desktop\MySeminarsC#\Seminars\seminar1\obj\Debug\net6.0\seminar1.csproj.CoreCompileInputs.cache
+C:\Users\KISKIN-PC\Desktop\MySeminarsC#\Seminars\seminar1\obj\Debug\net6.0\seminar1.dll
+C:\Users\KISKIN-PC\Desktop\MySeminarsC#\Seminars\seminar1\obj\Debug\net6.0\refint\seminar1.dll
+C:\Users\KISKIN-PC\Desktop\MySeminarsC#\Seminars\seminar1\obj\Debug\net6.0\seminar1.pdb
+C:\Users\KISKIN-PC\Desktop\MySeminarsC#\Seminars\seminar1\obj\Debug\net6.0\seminar1.genruntimeconfig.cache
+C:\Users\KISKIN-PC\Desktop\MySeminarsC#\Seminars\seminar1\obj\Debug\net6.0\ref\seminar1.dll
