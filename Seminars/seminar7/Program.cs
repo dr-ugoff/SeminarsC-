@@ -7,10 +7,10 @@
 
 // int[,] Create2DRandomArray(int minValue, int maxValue, int rows, int columns)
 // {
-//     int[,] newArray = new int[rows, colums];
+//     int[,] newArray = new int[rows, columns];
 //     for (int i = 0; i < rows; i++)
 //     {
-//         for (int j = 0; j < colums; j++)
+//         for (int j = 0; j < columns; j++)
 //         {
 //             newArray[i, j] = new Random().Next(minValue, maxValue + 1);
 //         }
