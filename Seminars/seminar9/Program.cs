@@ -92,7 +92,7 @@
 
 // }
 
-int FinPowerNumber(int A, int B)
+int FindPowerNumber(int A, int B)
 {
     if (B == 0)
     return 1;
@@ -107,4 +107,4 @@ Console.Write("Введите число: ");
 int a = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите степень: ");
 int b = Convert.ToInt32(Console.ReadLine());
-Console.Write($"A = {a}, B = {b} -> {FinPowerNumber(a, b)}");
+Console.Write($"A = {a}, B = {b} -> {FindPowerNumber(a, b)}");
