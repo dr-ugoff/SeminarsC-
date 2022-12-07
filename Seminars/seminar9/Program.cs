@@ -98,7 +98,7 @@ int FindPowerNumber(int A, int B)
     return 1;
     else
     {
-        return A * FinPowerNumber(A, B - 1);
+        return A * FindPowerNumber(A, B - 1);
     }
     return A;
 }
