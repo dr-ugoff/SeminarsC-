@@ -72,8 +72,8 @@ int FunctionAkkerman(int m, int n)
     }
 }
 
-Console.Write("Введите начало промежутка: ");
+Console.Write("Введите первое неотрицательное число: ");
 int m = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите конец промежутка: ");
+Console.Write("Введите второе неотрицательное число: ");
 int n = Convert.ToInt32(Console.ReadLine());
 Console.Write($"m = {m}; m = {n} -> A(m,n) = {FunctionAkkerman(m, n)}");
