@@ -100,7 +100,6 @@ int FindPowerNumber(int A, int B)
     {
         return A * FindPowerNumber(A, B - 1);
     }
-    return A;
 }
 
 Console.Write("Введите число: ");
